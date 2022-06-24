@@ -24,3 +24,5 @@ Custom Programming Language
             - FILENAME could be the name of your own file without the extension (ie 'MyScript.wd' -> 'wdscript.bat MyScript')
             
 Please note that you can use directories when running the compiler agaisnt your file! (./wdscript src/MyScript [mac]) / (./wdscript.bat src/MyScript [windows])
+
+PATREON: https://www.patreon.com/user?u=57635413&fan_landing=true
